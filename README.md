@@ -1,4 +1,4 @@
-### Fullstack Developer at @montrel-tecnologia.
+### Fullstack Developer
 
 👋🏽 Olá, me chamo Vinícius Soares
 🎓 Formado em Informática para Internet (ETEC PFA) e Sistemas de Informação (FHO Uniararas)
